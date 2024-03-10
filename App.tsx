@@ -13,7 +13,6 @@ function App() {
     <QueryClientProvider client={queryClient}>
       <PaperProvider>
     <View>
-      <Header></Header>
       <MakeupFeedScreen/>
     </View>
     </PaperProvider>
