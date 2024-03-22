@@ -14,7 +14,9 @@ Lorsqu'on clique sur l'item, une pop-up s'ouvre avec une description + l'url ver
 
 ## Screens
 ![Screen1](assets/pres1.jpg)
-![Screen2](assets/pres2.jpg)
+---
+![Screen2](assets/pres2.png)
+---
 ![Screen3](assets/pres2.jpg)
 
 ## Screenrecord
