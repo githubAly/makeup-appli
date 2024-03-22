@@ -12,6 +12,11 @@ Lorsqu'on clique sur l'item, une pop-up s'ouvre avec une description + l'url ver
 ## Preview IOS
 ![QRCODE](assets/qrcode.svg)
 
+## Screens
+![Screen1](assets/pres1.jpg)
+![Screen2](assets/pres2.jpg)
+![Screen3](assets/pres2.jpg)
+
 ## Screenrecord
-![Démonstration](assets/makeup_view.gif)
+![Record](assets/makeup_view.gif)
 
