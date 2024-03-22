@@ -17,7 +17,7 @@ Lorsqu'on clique sur l'item, une pop-up s'ouvre avec une description + l'url ver
 ---
 ![Screen2](assets/pres2.png)
 ---
-![Screen3](assets/pres2.jpg)
+![Screen3](assets/pres3.jpg)
 
 ## Screenrecord
 ![Record](assets/makeup_view.gif)
