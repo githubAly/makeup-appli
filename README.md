@@ -9,5 +9,9 @@ Lorsqu'on clique sur l'item, une pop-up s'ouvre avec une description + l'url ver
 ## API utilisée
 - https://makeup-api.herokuapp.com/api/v1/products.json
 
-## Screens
+## Preview IOS
+![QRCODE](assets/qrcode.svg)
+
+## Screenrecord
 ![Démonstration](assets/makeup_view.gif)
+
