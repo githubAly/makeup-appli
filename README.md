@@ -13,10 +13,10 @@ Lorsqu'on clique sur l'item, une pop-up s'ouvre avec une description + l'url ver
 ![QRCODE](assets/qrcode.svg)
 
 ## Screens
-![Screen1](assets/pres1.jpg){ width=400px }
-![Screen2](assets/pres2.jpg){ width=400px }
-![Screen3](assets/pres2.jpg){ width=400px }
+![Screen1](assets/pres1.jpg)
+![Screen2](assets/pres2.jpg)
+![Screen3](assets/pres2.jpg)
 
 ## Screenrecord
-![Record](assets/makeup_view.gif){ width=400px }
+![Record](assets/makeup_view.gif)
 
